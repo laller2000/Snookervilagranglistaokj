@@ -1,0 +1,8 @@
+C:\Users\lalle\source\repos\Snooker\Snooker\bin\Debug\snooker.txt
+C:\Users\lalle\source\repos\Snooker\Snooker\bin\Debug\Snooker.exe.config
+C:\Users\lalle\source\repos\Snooker\Snooker\bin\Debug\Snooker.exe
+C:\Users\lalle\source\repos\Snooker\Snooker\bin\Debug\Snooker.pdb
+C:\Users\lalle\source\repos\Snooker\Snooker\obj\Debug\Snooker.csprojAssemblyReference.cache
+C:\Users\lalle\source\repos\Snooker\Snooker\obj\Debug\Snooker.csproj.CoreCompileInputs.cache
+C:\Users\lalle\source\repos\Snooker\Snooker\obj\Debug\Snooker.exe
+C:\Users\lalle\source\repos\Snooker\Snooker\obj\Debug\Snooker.pdb
